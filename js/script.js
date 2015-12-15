@@ -21,3 +21,4 @@ ctx.fillRect(187,160,25,25);
 
 ctx.fillStyle = "rgb(53, 99, 186)";
 ctx.fillRect(187,210,25,25);
+  
